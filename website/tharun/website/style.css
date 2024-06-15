@@ -14,7 +14,7 @@ body{
     height:100vh;
     background-image: url(images/back.png);
     background-size: cover;
-    background-position: left;
+    background-position: center;
 }
 .container{
     padding:10px 10%;
